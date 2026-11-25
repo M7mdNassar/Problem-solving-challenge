@@ -20,7 +20,7 @@ swift 6.2.3
 - **Approach & Logic:**
   <!-- Briefly explain key data structures, algorithmic design, and trade-offs -->
   firstly , i dont need to write the brute force like try all pairs and loop again and again which leads to N^2
-  also i wil get time limit exceeded on large size of input .(as the constrains in the question description)
+  also i wil get time limit exceeded on large size of input .(as the constrains in the question description).. 2 * 10^5 .. this with n^2 solution will lead time limit ..
 
   so, i have to lees the time to be linear by add a space .
   we can use a map just to track the numbers as i go ..
